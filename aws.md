@@ -77,6 +77,10 @@ and then go to advance ssh setting,click on checkbox use private key and upload 
 after click on ok your connection get established.
 
 
+![Screenshot (113)](https://user-images.githubusercontent.com/64422457/80919001-466df700-8d85-11ea-96d5-3ca088496273.png)
+
+
+
 
 
 
