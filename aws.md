@@ -34,9 +34,13 @@ It is used to create an instance and with the help of that you can create your l
 
 6.In add storage select the size and type of storage and go to next:
 
+![ec5](https://user-images.githubusercontent.com/64422457/80917991-2be54f00-8d80-11ea-99dd-3b27e67d7894.png)
+
 
 
 7.In tags you need to give whatever name you want so you can identify your insatnce:
+
+
 
 
 8.After adding tag click on Configure security group and here you can create a security group give it any name and description, but if you already have and existing group you can use it:
