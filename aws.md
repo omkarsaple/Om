@@ -40,6 +40,9 @@ It is used to create an instance and with the help of that you can create your l
 
 7.In tags you need to give whatever name you want so you can identify your insatnce:
 
+![Screenshot (111)](https://user-images.githubusercontent.com/64422457/80918156-145a9600-8d81-11ea-81a5-f9f5f5708989.png)
+
+
 
 
 
