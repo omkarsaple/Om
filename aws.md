@@ -19,6 +19,9 @@ It is used to create an instance and with the help of that you can create your l
 
 ![ec21](https://user-images.githubusercontent.com/64422457/80917289-77492e80-8d7b-11ea-8a84-6d50efeb8850.png)
 
+3.After that in search box whatever windows ,linux,ubuntu you can search that in search box:
+
+
 
 
 
