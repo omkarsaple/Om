@@ -13,5 +13,8 @@ It is used to create an instance and with the help of that you can create your l
 
 1.login to your AWS console After that Search for EC2 in your services search bar and select EC2 so you will get the below image
 
+![ec2](https://user-images.githubusercontent.com/64422457/80917018-f473a400-8d79-11ea-9238-13f2e0579ef8.png)
+
+
 
 
