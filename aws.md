@@ -62,6 +62,17 @@ this key is very important like without this key you can not open your file
 
 11.now click on launch you can see ur instance:
 
+![ec8](https://user-images.githubusercontent.com/64422457/80918586-5c7ab800-8d83-11ea-8a95-cf9b960f193a.png)
+
+so if your local os is windows you need to connect your ec2 instance with third party app MOBAXTERM download the portable edition
+
+once you install this application and run it click on session on top left corner and choose SSH.
+
+after that copy ec2 ip address to remote host and in specify username give ec2-user.
+
+and then go to advance ssh setting,click on checkbox use private key and upload your downloaded key pair
+
+
 
 
 
