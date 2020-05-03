@@ -34,7 +34,7 @@ It is used to create an instance and with the help of that you can create your l
 
 6.In add storage select the size and type of storage and go to next:
 
-
+https://github.com/omkarsaple/Om/issues/2#issue-611437180
 
 
 7.In tags you need to give whatever name you want so you can identify your insatnce:
