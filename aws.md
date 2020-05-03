@@ -28,7 +28,13 @@ It is used to create an instance and with the help of that you can create your l
 5.In configuration details keep everything default and go to next:
 
 
+![ec4](https://user-images.githubusercontent.com/64422457/80917871-48cd5280-8d7f-11ea-9408-69dd5efc7458.png)
+
+
+
 6.In add storage select the size and type of storage and go to next:
+
+
 
 
 7.In tags you need to give whatever name you want so you can identify your insatnce:
