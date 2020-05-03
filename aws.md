@@ -56,6 +56,9 @@ It is used to create an instance and with the help of that you can create your l
 
 10.you will get this window select create a new key and give a name and download the key:
 
+![ec8](https://user-images.githubusercontent.com/64422457/80918332-fc374680-8d81-11ea-8e73-bd77957bc98f.png)
+
+
 
 
 
