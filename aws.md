@@ -72,6 +72,11 @@ after that copy ec2 ip address to remote host and in specify username give ec2-u
 
 and then go to advance ssh setting,click on checkbox use private key and upload your downloaded key pair
 
+![Screenshot (112)](https://user-images.githubusercontent.com/64422457/80918886-c778be80-8d84-11ea-85d4-2e22677a115b.png)
+
+after click on ok your connection get established.
+
+
 
 
 
