@@ -23,6 +23,9 @@ It is used to create an instance and with the help of that you can create your l
 
 4.Then you need to select instance type,ram,processor and click on next :
 
+![ec3](https://user-images.githubusercontent.com/64422457/80917576-7d400f00-8d7d-11ea-9a50-fabefada9814.png)
+
+
 
 
 
