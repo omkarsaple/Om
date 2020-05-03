@@ -49,6 +49,15 @@ It is used to create an instance and with the help of that you can create your l
 8.After adding tag click on Configure security group and here you can create a security group give it any name and description, but if you already have and existing group you can use it:
 
 
+![ec7](https://user-images.githubusercontent.com/64422457/80918186-5b488b80-8d81-11ea-97ad-c8ff02497bef.png)
+
+
+9.you can review and launch the instance:
+
+10.you will get this window select create a new key and give a name and download the key:
+
+
+
 
 
 
