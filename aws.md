@@ -25,6 +25,22 @@ It is used to create an instance and with the help of that you can create your l
 
 ![ec3](https://user-images.githubusercontent.com/64422457/80917576-7d400f00-8d7d-11ea-9a50-fabefada9814.png)
 
+5.In configuration details keep everything default and go to next:
+
+
+6.In add storage select the size and type of storage and go to next:
+
+
+7.In tags you need to give whatever name you want so you can identify your insatnce:
+
+
+8.After adding tag click on Configure security group and here you can create a security group give it any name and description, but if you already have and existing group you can use it:
+
+
+
+
+
+
 
 
 
