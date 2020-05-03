@@ -60,7 +60,8 @@ It is used to create an instance and with the help of that you can create your l
 
 this key is very important like without this key you can not open your file
 
-11.now click on launch you can see ur instance
+11.now click on launch you can see ur instance:
+
 
 
 
