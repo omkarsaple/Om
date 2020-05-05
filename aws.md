@@ -79,6 +79,13 @@ after click on ok your connection get established.
 
 ![Screenshot (113)](https://user-images.githubusercontent.com/64422457/80919001-466df700-8d85-11ea-96d5-3ca088496273.png)
 
+**2.S3:**
+
+It is used for data storage.If we want to upload PHOTO,VIDEO,DOCUMENT to AMAZON S3 you must first create an S3 bucket in one of the AWS Regions. You can then upload any number of objects to the bucket.
+
+**steps for creating s3:**
+first go to search box and search for S3 and after selecting S3 you will get below tab
+
 
 
 
