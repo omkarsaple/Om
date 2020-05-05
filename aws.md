@@ -101,6 +101,10 @@ It is used for data storage.If we want to upload PHOTO,VIDEO,DOCUMENT to AMAZON 
 
 5.so after creating folder we need to upload file:
 
+![4 to-Upload](https://user-images.githubusercontent.com/64422457/81102644-8cfe5580-8f2d-11ea-95e2-26f4a750b57e.PNG)
+
+6.
+
 
 
 
