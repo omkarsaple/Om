@@ -94,6 +94,7 @@ It is used for data storage.If we want to upload PHOTO,VIDEO,DOCUMENT to AMAZON 
 
 3.after creating bucket you will get view :
 
+![2 S3-view](https://user-images.githubusercontent.com/64422457/81102181-e023d880-8f2c-11ea-9f41-7d1318f6c3f6.PNG)
 
 4.after that click on new folder and click on upload to a file:
 
