@@ -99,6 +99,8 @@ It is used for data storage.If we want to upload PHOTO,VIDEO,DOCUMENT to AMAZON 
 4.after that click on new folder and click on upload to a file:
 ![3 to-Create-folder](https://user-images.githubusercontent.com/64422457/81102307-13fefe00-8f2d-11ea-9fbd-98da160b4452.PNG)
 
+![5 Create-folder](https://user-images.githubusercontent.com/64422457/81102964-fd0cdb80-8f2d-11ea-8c32-e04c6dce7355.PNG)
+
 5.so after creating folder we need to upload file:
 
 ![4 to-Upload](https://user-images.githubusercontent.com/64422457/81102644-8cfe5580-8f2d-11ea-95e2-26f4a750b57e.PNG)
