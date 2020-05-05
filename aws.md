@@ -97,6 +97,10 @@ It is used for data storage.If we want to upload PHOTO,VIDEO,DOCUMENT to AMAZON 
 ![2 S3-view](https://user-images.githubusercontent.com/64422457/81102181-e023d880-8f2c-11ea-9f41-7d1318f6c3f6.PNG)
 
 4.after that click on new folder and click on upload to a file:
+![3 to-Create-folder](https://user-images.githubusercontent.com/64422457/81102307-13fefe00-8f2d-11ea-9fbd-98da160b4452.PNG)
+
+5.so after creating folder we need to upload file:
+
 
 
 
