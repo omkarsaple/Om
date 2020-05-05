@@ -114,6 +114,9 @@ It is used for data storage.If we want to upload PHOTO,VIDEO,DOCUMENT to AMAZON 
 
 7.To make a file public go on static website hosting option and then give ur uploaded file name:
 
+![8 public](https://user-images.githubusercontent.com/64422457/81103767-267a3700-8f2f-11ea-8481-ea7529fd124d.PNG)
+
+8.Then select action and make them public:
 
 
 
