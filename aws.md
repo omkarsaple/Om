@@ -88,10 +88,15 @@ It is used for data storage.If we want to upload PHOTO,VIDEO,DOCUMENT to AMAZON 
 
 ![Screenshot (119)](https://user-images.githubusercontent.com/64422457/81100339-0136fa00-8f2a-11ea-9bdf-e9114537aab3.png)
 
-2.after that click on create bucket and then give your bucket name and you will get belo image:
+2.after that click on create bucket and then give your bucket name:
+
+![1 name](https://user-images.githubusercontent.com/64422457/81101862-5b38bf00-8f2c-11ea-94fd-93707642aa2c.PNG)
+
+3.after creating bucket you will get view :
 
 
-3.
+4.after that click on new folder and click on upload to a file:
+
 
 
 
