@@ -105,7 +105,14 @@ It is used for data storage.If we want to upload PHOTO,VIDEO,DOCUMENT to AMAZON 
 
 ![4 to-Upload](https://user-images.githubusercontent.com/64422457/81102644-8cfe5580-8f2d-11ea-95e2-26f4a750b57e.PNG)
 
-6.
+6.so follow the below steps for uploading file:
+![6 folder-uploaded](https://user-images.githubusercontent.com/64422457/81103227-61c83600-8f2e-11ea-9975-df6cd73b1bb1.PNG)
+
+![6 upload](https://user-images.githubusercontent.com/64422457/81103229-6260cc80-8f2e-11ea-860e-8b95f7dfd21a.PNG)
+
+![7 uploaded](https://user-images.githubusercontent.com/64422457/81103307-79072380-8f2e-11ea-8f41-0b8a7db5631d.PNG)
+
+7.To make a file public go on static website hosting option and then give ur uploaded file name:
 
 
 
