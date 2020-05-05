@@ -84,8 +84,14 @@ after click on ok your connection get established.
 It is used for data storage.If we want to upload PHOTO,VIDEO,DOCUMENT to AMAZON S3 you must first create an S3 bucket in one of the AWS Regions. You can then upload any number of objects to the bucket.
 
 **steps for creating s3:**
-first go to search box and search for S3 and after selecting S3 you will get below tab
+1.first go to service and select S3 service after selecting S3 you will get below tab:
 
+![Screenshot (119)](https://user-images.githubusercontent.com/64422457/81100339-0136fa00-8f2a-11ea-9bdf-e9114537aab3.png)
+
+2.after that click on create bucket and then give your bucket name and you will get belo image:
+
+
+3.
 
 
 
