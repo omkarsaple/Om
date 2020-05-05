@@ -120,6 +120,7 @@ It is used for data storage.If we want to upload PHOTO,VIDEO,DOCUMENT to AMAZON 
 
 ![9 Make-public](https://user-images.githubusercontent.com/64422457/81103949-693c0f00-8f2f-11ea-9063-6f1312ca4da8.PNG)
 
+9.SO your S3 bucket is ready 
 
 
 
