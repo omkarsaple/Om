@@ -132,6 +132,16 @@ STEPS for connection RDS to your system:
 
 1.Go in search box and search for RDS and click on CREATE DATABASE:
 
+![Screenshot (122)](https://user-images.githubusercontent.com/64422457/81410436-56f3e800-915e-11ea-977f-6542fb677490.png)
+
+2.Then select Easy create and then select Mysql:
+
+
+
+3.After that select on free tier,then giver your dtabasename and give your master username and give password and remember that password:
+
+
+
 
 
 
