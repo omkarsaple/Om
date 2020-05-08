@@ -123,6 +123,14 @@ It is used for data storage.If we want to upload PHOTO,VIDEO,DOCUMENT to AMAZON 
 9.SO your S3 bucket is ready 
 
 
+**RDS(RELATIONAL DATABASE SERVICE):**
+
+Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud.
+
+
+STEPS for connection RDS to your system:
+
+1.Go in search box and search for RDS and click on CREATE DATABASE:
 
 
 
