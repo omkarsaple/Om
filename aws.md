@@ -143,6 +143,13 @@ STEPS for connection RDS to your system:
 
 4.after that before hit on create database go to additional configuration and make your dtabase public so you can access it outside your AWS so after that you can click on create database:
 
+![Screenshot (125)](https://user-images.githubusercontent.com/64422457/81413015-5eb58b80-9162-11ea-803b-2d4213d15aa4.png)
+
+![Screenshot (126)](https://user-images.githubusercontent.com/64422457/81413463-177bca80-9163-11ea-99ed-91425bf8bd29.png)
+
+5.Then go to defaulty security group after that go to edit inbound rule and click on add rule and save the rule:
+
+
 
 
 
