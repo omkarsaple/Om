@@ -141,6 +141,11 @@ STEPS for connection RDS to your system:
 
 ![Screenshot (124)](https://user-images.githubusercontent.com/64422457/81410862-0f219080-915f-11ea-96c4-ecbf4c7035b2.png)
 
+4.after that before hit on create database go to additional configuration and make your dtabase public so you can access it outside your AWS so after that you can click on create database:
+
+
+
+
 
 
 
