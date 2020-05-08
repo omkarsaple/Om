@@ -177,6 +177,9 @@ STEPS for connection RDS to your system:
 
 9.after that your connection is get successfully established:
 
+![Screenshot (134)](https://user-images.githubusercontent.com/64422457/81415574-3f206200-9166-11ea-8f21-13088ac51482.png)
+
+
 
 
 
