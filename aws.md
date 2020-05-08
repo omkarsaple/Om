@@ -149,6 +149,20 @@ STEPS for connection RDS to your system:
 
 5.Then go to defaulty security group after that go to edit inbound rule and click on add rule and save the rule:
 
+![Screenshot (129)](https://user-images.githubusercontent.com/64422457/81414275-5bbb9a80-9164-11ea-837c-d44e9869193b.png)
+
+![Screenshot (128)](https://user-images.githubusercontent.com/64422457/81414294-62e2a880-9164-11ea-95e6-622af399a413.png)
+
+6.Then go to your mysql workbench in your system and click on mysql connection,give the new connection name :
+
+
+7.Then copy the endpoint url from your database and paste to host ip:
+
+
+
+8.after that give username and password that you give during creation of database and hit on test connection :
+
+
 
 
 
