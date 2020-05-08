@@ -135,12 +135,11 @@ STEPS for connection RDS to your system:
 ![Screenshot (122)](https://user-images.githubusercontent.com/64422457/81410436-56f3e800-915e-11ea-977f-6542fb677490.png)
 
 2.Then select Easy create and then select Mysql:
-
-
+![Screenshot (123)](https://user-images.githubusercontent.com/64422457/81410852-0c26a000-915f-11ea-84ee-5ed6517acd58.png)
 
 3.After that select on free tier,then giver your dtabasename and give your master username and give password and remember that password:
 
-
+![Screenshot (124)](https://user-images.githubusercontent.com/64422457/81410862-0f219080-915f-11ea-96c4-ecbf4c7035b2.png)
 
 
 
